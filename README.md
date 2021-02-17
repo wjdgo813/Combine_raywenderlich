@@ -1,2 +1,18 @@
-# Combine_raywenderlich
-Studying Combine framework
+# Combine: Asynchronous Programming with Swift
+<img src="./picture/w594.png"/>
+
+> Combine Asynchronous Programming with Swift의 책을 번역하며 Combine framework를 스터디합니다.
+
+## Section1: Introduction to Combine
+
+- Chapter1. [Hello, Combine!](https://github.com/wjdgo813/Combine_raywenderlich/blob/master/1.Hello_Combine.md)
+- Chapter2. [Publisher & Subscribers](https://github.com/wjdgo813/Combine_raywenderlich/blob/master/2.%20Publishers%20%26%20Subscribers.md)
+
+## Section2: Operators
+
+- Chapter3. Transforming Operators
+- Chapter4. Filtering Operators
+- Chapter5. Combining Operators
+
+
+
