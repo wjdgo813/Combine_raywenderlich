@@ -10,7 +10,7 @@
 
 ## Section2: Operators
 
-- Chapter3. Transforming Operators
+- Chapter3. [Transforming Operators](https://github.com/wjdgo813/Combine_raywenderlich/blob/master/3.%20Transaforming%20Operators.md)
 - Chapter4. Filtering Operators
 - Chapter5. Combining Operators
 
